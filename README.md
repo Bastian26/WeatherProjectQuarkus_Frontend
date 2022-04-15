@@ -1,4 +1,4 @@
-# WeatherProjectQuarkus_Frontend!
+# WeatherProjectQuarkus_Frontend
 
 Das Frontend sieht nur mir verfügbaren/validen Daten gut aus (also wenn die Felder gefüllt sind).
 Dazu muss das Backend erreichbar sein
